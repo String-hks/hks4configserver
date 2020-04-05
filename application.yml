@@ -2,8 +2,6 @@ spring:
   profiles: dev
   application: 
     name: config-dev-8888
-----
-
 spring: 
   profiles: test
   application: 
